@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BmLMQRXF.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"db/Redis.md","filePath":"db/Redis.md"}'),s={name:"db/Redis.md"};function r(d,o,c,n,i,p){return a(),t("div")}const f=e(s,[["render",r]]);export{m as __pageData,f as default};

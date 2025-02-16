@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as l,ag as o}from"./chunks/framework.BmLMQRXF.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"net/多路复用.md","filePath":"net/多路复用.md"}'),r={name:"net/多路复用.md"};function n(i,a,s,c,h,d){return l(),t("div",null,a[0]||(a[0]=[o("",5)]))}const u=e(r,[["render",n]]);export{p as __pageData,u as default};

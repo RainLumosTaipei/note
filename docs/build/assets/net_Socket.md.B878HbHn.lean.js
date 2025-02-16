@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ag as t}from"./chunks/framework.BmLMQRXF.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"net/Socket.md","filePath":"net/Socket.md"}'),l={name:"net/Socket.md"};function h(p,s,k,e,d,r){return n(),a("div",null,s[0]||(s[0]=[t("",14)]))}const g=i(l,[["render",h]]);export{c as __pageData,g as default};

@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ag as h}from"./chunks/framework.BmLMQRXF.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux/Bash.md","filePath":"linux/Bash.md"}'),l={name:"linux/Bash.md"};function p(t,s,k,e,d,r){return n(),a("div",null,s[0]||(s[0]=[h("",200)]))}const E=i(l,[["render",p]]);export{g as __pageData,E as default};

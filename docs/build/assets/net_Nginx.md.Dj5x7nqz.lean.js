@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ag as p}from"./chunks/framework.BmLMQRXF.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"net/Nginx.md","filePath":"net/Nginx.md"}'),l={name:"net/Nginx.md"};function h(t,s,k,e,d,E){return n(),a("div",null,s[0]||(s[0]=[p("",30)]))}const c=i(l,[["render",h]]);export{g as __pageData,c as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BmLMQRXF.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"db/Elasticsearch.md","filePath":"db/Elasticsearch.md"}'),s={name:"db/Elasticsearch.md"};function c(r,o,n,i,d,l){return a(),t("div")}const m=e(s,[["render",c]]);export{_ as __pageData,m as default};

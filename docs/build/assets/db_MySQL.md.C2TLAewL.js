@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BmLMQRXF.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"db/MySQL.md","filePath":"db/MySQL.md"}'),r={name:"db/MySQL.md"};function o(s,c,n,d,p,_){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
