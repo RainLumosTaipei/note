@@ -1,1 +1,0 @@
-import{_ as e,c as r,o,ag as t}from"./chunks/framework.BmLMQRXF.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cloud/k8s/云原生.md","filePath":"cloud/k8s/云原生.md"}'),h={name:"cloud/k8s/云原生.md"};function i(l,a,n,d,s,c){return o(),r("div",null,a[0]||(a[0]=[t("",53)]))}const q=e(h,[["render",i]]);export{b as __pageData,q as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BmLMQRXF.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"net/UDP.md","filePath":"net/UDP.md"}'),n={name:"net/UDP.md"};function r(o,s,c,p,_,d){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};

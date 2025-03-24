@@ -1,1 +1,0 @@
-import{_ as a,c as i,o as n,ag as l}from"./chunks/framework.BmLMQRXF.js";const o=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux/cmd.md","filePath":"linux/cmd.md"}'),e={name:"linux/cmd.md"};function h(t,s,p,k,d,r){return n(),i("div",null,s[0]||(s[0]=[l("",122)]))}const g=a(e,[["render",h]]);export{o as __pageData,g as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./chunks/framework.BmLMQRXF.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front/web/CSS 3.md","filePath":"front/web/CSS 3.md"}'),a={name:"front/web/CSS 3.md"};function o(n,s,c,_,f,p){return r(),t("div")}const m=e(a,[["render",o]]);export{i as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as i,ag as l}from"./chunks/framework.BmLMQRXF.js";const p=JSON.parse('{"title":"心得体会","description":"","frontmatter":{},"headers":[],"relativePath":"other/mind.md","filePath":"other/mind.md"}'),r={name:"other/mind.md"};function o(n,a,_,d,s,h){return i(),t("div",null,a[0]||(a[0]=[l("",9)]))}const m=e(r,[["render",o]]);export{p as __pageData,m as default};

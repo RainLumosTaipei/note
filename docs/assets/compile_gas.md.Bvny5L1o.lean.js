@@ -1,1 +1,0 @@
-import{_ as t,c as i,o as a,ag as e}from"./chunks/framework.BmLMQRXF.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"compile/gas.md","filePath":"compile/gas.md"}'),n={name:"compile/gas.md"};function l(h,s,d,r,p,k){return a(),i("div",null,s[0]||(s[0]=[e("",31)]))}const c=t(n,[["render",l]]);export{g as __pageData,c as default};
