@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,ae as i}from"./chunks/framework.Dy1PyH6P.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"git/cmd.md","filePath":"git/cmd.md"}'),n={name:"git/cmd.md"};function o(g,t,p,l,c,h){return r(),e("div",null,t[0]||(t[0]=[i("",12)]))}const d=a(n,[["render",o]]);export{_ as __pageData,d as default};

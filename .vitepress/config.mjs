@@ -8,7 +8,7 @@ export default defineConfig({
   title: "Rain Blog",
   srcDir: './src',
   description: "step by step",
-  base: '/note/',
+  //base: '/note/',
   
   themeConfig: {
     nav: [
