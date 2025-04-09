@@ -5,9 +5,10 @@ let arch = `/src/arch`
 let cc = `/src/cc`
 
 export default defineConfig({
-  title: "RainLumosTaipei",
+  title: "Rain Blog",
   srcDir: './src',
   description: "step by step",
+  base: '/note/',
   
   themeConfig: {
     nav: [

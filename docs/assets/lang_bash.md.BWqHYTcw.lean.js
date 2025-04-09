@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as n,ae as t}from"./chunks/framework.Dy1PyH6P.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"lang/bash.md","filePath":"lang/bash.md"}'),l={name:"lang/bash.md"};function h(e,s,p,k,r,o){return n(),i("div",null,s[0]||(s[0]=[t("",5)]))}const F=a(l,[["render",h]]);export{c as __pageData,F as default};
