@@ -4,7 +4,7 @@
   },
   "scripts": {
     "dev": "vitepress dev",
-    "build": "vitepress build && copy .vitepress/dist/ docs/",
+    "build": "vitepress build",
     "prev": "vitepress preview"
   }
 }

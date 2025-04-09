@@ -1,10 +1,12 @@
-# git
+## git
 
 先克隆整个仓库，再切换到特定分支
 
 
 git clone <远程仓库地址>
 
+
+### branch
 
 查看所有远程分支：
 git branch -r
@@ -23,3 +25,10 @@ git config --global --list
 
 git push -u origin 5.2.x
 git push -u origin 5.2.x:5.3.x
+
+
+### tag
+
+git tag
+
+git switch -c <new_branch_name> <tag_name>

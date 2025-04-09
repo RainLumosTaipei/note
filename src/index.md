@@ -1,25 +1,20 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  name: "Winter, Rain and Taipei"
+  text: "My Blog"
+  tagline: step by step, coding first
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: C and C++
+    details: the real language for programmers
+    link: /lang/cxx
+  - title: Compiler, Assembler and Linker
+    details: it's too late to start
+    link: /cc
+  - title: GPU and CPU arch
+    details: something magic
+    link: aarch
 ---
 
