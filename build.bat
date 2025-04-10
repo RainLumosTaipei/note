@@ -10,4 +10,4 @@ call npm run build
 
 rem 复制 .vitepress/dist/ 目录到 docs 目录
 xcopy /e /i /y .vitepress\dist docs
-    
+xcopy /i CNAME docs
