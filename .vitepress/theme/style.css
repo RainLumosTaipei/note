@@ -166,6 +166,7 @@ body{
 
 .container .content{
   padding: 0 0 128px;
+  padding-left: 16px;
 }
 
 
