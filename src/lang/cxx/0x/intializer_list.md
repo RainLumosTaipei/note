@@ -7,11 +7,11 @@
 
 ## 使用
 
-- Point()
+- class()
 
 使用`()`初始化，一定调用 ctor，不会调用 initializer_list
 
-- Point{}
+- class{}
 
 使用`{}`初始化，优先调用 initializer_list，如果不存在，则调用 ctor
 
@@ -45,6 +45,13 @@ int main(int argc, char **argv) {
 
 要注意如果没有`initializer_list`，表达式`Point q = {1, 2, 3}`是有问题的，
 因为`Point(int a, int b, int c)`不允许隐式调用。
+
+```c++
+int i = int();  // 0
+int j{};        // 0
+```
+
+内置标量也可以像类一样调用 ctor 初始化为 0。这不同于 java 额外封装了包装类:)。
 
 ::: tip
 没有明确写出类名 ctor 都被认为是 implicit
