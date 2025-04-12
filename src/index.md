@@ -5,6 +5,8 @@ hero:
   name: "Winter, Rain and Taipei"
   text: "My Blog"
   tagline: step by step, coding first
+  image:
+    src: /rust-killer.png
 
 features:
   - title: C and C++
