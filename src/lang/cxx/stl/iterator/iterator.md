@@ -10,7 +10,6 @@
 ## iterator traits
 
 
-
 迭代器特征使用模版的方法为迭代器封装一个可以表示类型的接口。
 之所以用模版，是因为只有模版可以推导类型，再结合 typedef 就可以很好的传递类型。
 
@@ -89,3 +88,7 @@ inline void __advance(RandomAccessIterator& i, Distance d, random_access_iterato
     i += d;
 }
 ```
+
+## usage
+
+

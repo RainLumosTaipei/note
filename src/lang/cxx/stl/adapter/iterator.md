@@ -30,3 +30,7 @@ int main(int argc, char **argv) {
     std::copy(v.begin(), v.end(), out);
 }
 ```
+
+```c++
+std::vector<int> v ((std::istream_iterator<int>(std::cin)), std::istream_iterator<int>());
+```
