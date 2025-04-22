@@ -27,7 +27,10 @@ const vitepressOptions = {
   srcDir: './src',
   outDir: './docs',
   description: "step by step",
-  head: [['link', { rel: 'icon', href: '/cxxcxx.png' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/cxxcxx.png' }],
+    ['meta', { name: "baidu-site-verification", content: "codeva-Br32LI008w"}]
+  ],
   //base: '/note/',
   locales: localeOptions,
   lastUpdated: true,

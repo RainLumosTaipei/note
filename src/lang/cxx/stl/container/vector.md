@@ -40,7 +40,7 @@ vector 迭代器持续有效，除非发生两种情况:
 收缩 vector 容量，但不保证 `capacity() == size() + 1`
 
 ```c++
-std::vector<int> v = { 10, 1, 2, 3}; 
+std::vector<int\> v = { 10, 1, 2, 3};
 v.shrink_to_fit();
 ```
 
